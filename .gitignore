@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+outputs/
+.env
+.browser-profile/
+.selenium-cache/
+.streamlit/secrets.toml

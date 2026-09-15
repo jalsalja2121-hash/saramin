@@ -1,0 +1,9 @@
+{
+  "name": "홍길동 (가상 지원자)",
+  "summary": "Python을 활용해 반복 작업을 줄이는 프로젝트를 진행했습니다.",
+  "skills": ["Python", "SQL", "Git"],
+  "experiences": [
+    "개인 프로젝트에서 Python으로 파일 분류 도구를 구현했습니다.",
+    "팀 프로젝트에서 REST API 응답을 처리하고 SQLite에 저장하는 기능을 담당했습니다."
+  ]
+}
